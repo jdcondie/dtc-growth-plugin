@@ -1,0 +1,10 @@
+{
+  "name": "dtc-growth-plugin",
+  "description": "6 marketing skills for DTC operators: brand DNA, voice profiling, ICP, hooks, scripts, briefs. Built for the Claude Operating System workshop.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jason Condie",
+    "email": "jdcondie@gmail.com"
+  },
+  "homepage": "https://github.com/jdcondie/dtc-growth-plugin"
+}
