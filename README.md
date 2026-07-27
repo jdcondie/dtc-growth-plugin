@@ -36,10 +36,16 @@ The skills compound. Run them in this order for the first project:
 
 Once those three foundation files exist, every downstream skill gets sharper for free.
 
+## Going further
+
+These 6 skills are the free tier. The paid **Productized Deliverables Pack** turns this kind of work into scoped client invoices: creative strategist, Google Ads audit, DTC second brain, advertorial generator, and more, each with pricing notes and an engagement scope.
+
+More at [jaycondie.com](https://jaycondie.com).
+
 ## License
 
 MIT. Use them, fork them, save them globally, build your own.
 
 ## Credit
 
-Built by [Jay Condie](https://github.com/jdcondie). Part of the Claude Operating System course.
+Built by [Jay Condie](https://github.com/jdcondie). Part of the Claude Operating System workshop series.
